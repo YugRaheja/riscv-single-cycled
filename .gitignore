@@ -1,0 +1,48 @@
+# ---- Vivado generated directories ----
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.gen/
+*.sdk/
+*.ioplanner/
+*.srcs/**/ip/**/*.xml.bak
+.Xil/
+
+# ---- Vivado logs, journals, and backups ----
+*.jou
+*.log
+*.backup.jou
+*.backup.log
+*.pb
+*.str
+*.rpt
+*.dmp
+hs_err_pid*
+
+# ---- Simulation outputs ----
+*.wdb
+*.wcfg.bak
+xsim.dir/
+webtalk*
+*.vcd
+*.fst
+*.vvp
+*.lxt
+
+# ---- Build artifacts ----
+*.bit
+*.bin
+*.ltx
+*.dcp
+*.xsa
+*.hwdef
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+*~
+*.swp
+.vscode/
+.idea/
